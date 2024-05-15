@@ -1,7 +1,3 @@
-package com.ehsieh2.books20.models
-
-import com.ehsieh2.book20.R
-
 object BookTestData {
     val books = listOf(
         Book(

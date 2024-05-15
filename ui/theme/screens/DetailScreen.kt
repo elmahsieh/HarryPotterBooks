@@ -1,5 +1,3 @@
-package com.ehsieh2.books20.ui.theme.screens
-
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column

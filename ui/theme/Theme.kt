@@ -1,5 +1,3 @@
-package com.ehsieh2.books20.ui.theme
-
 import android.app.Activity
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

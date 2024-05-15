@@ -1,6 +1,3 @@
-package com.ehsieh2.books20
-
-
 import androidx.lifecycle.ViewModel
 import com.ehsieh2.books20.models.BookTestData
 import com.ehsieh2.books20.models.HomeUIState

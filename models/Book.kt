@@ -1,5 +1,3 @@
-package com.ehsieh2.books20.models
-
 data class Book(
     val index: Int,
     val title: String,

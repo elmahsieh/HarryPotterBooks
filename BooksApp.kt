@@ -1,5 +1,3 @@
-package com.ehsieh2.books20
-
 import androidx.compose.foundation.layout.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
